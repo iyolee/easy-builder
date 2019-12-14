@@ -1,0 +1,9 @@
+node_modules/**
+docs/**
+build/**
+mock/**
+proxy/**
+
+**/*.css
+**/*.html
+postcss.config.js
